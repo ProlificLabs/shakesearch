@@ -16,11 +16,12 @@ Your task is to fix the underlying code to make the failing tests in the app pas
 
 *** 
 
+**Do not open a pull request or fork the repo**. Use these steps to create a hard copy.
+
 1. Create a repository from this one using the "Use this template" button.
-2. Turn on Github Actions (click Actions tab in Github and press "I understand my workflows, go ahead and enable them", free for public repos)
-3. Fix the underlying code to make the tests pass
-5. Include a short explanation of your changes in the readme or changelog file.
-6. Email us back with a link to your copy of the repo.
+2. Fix the underlying code to make the tests pass
+3. Include a short explanation of your changes in the readme or changelog file
+4. Email us back with a link to your copy of the repo
 
 ## Running the App Locally
 
