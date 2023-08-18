@@ -12,11 +12,13 @@ Your task is to fix the underlying code to make the failing tests in the app pas
 
 ## Instructions
 
-1. Fork this repository.
+<img width="248" alt="image" src="https://github.com/ProlificLabs/shakesearch/assets/98766735/061a0129-bd33-49a4-b6a6-009513fe8661">
+
+1. Create a repository from this one using the "Use this template" button.
 2. Turn on Github Actions (click Actions tab in Github and press "I understand my workflows, go ahead and enable them", free for public repos)
 3. Fix the underlying code to make the tests pass
 5. Include a short explanation of your changes in the readme or changelog file.
-6. Email us back with a link to your fork.
+6. Email us back with a link to your copy of the repo.
 
 ## Running the App Locally
 
