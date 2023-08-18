@@ -12,7 +12,7 @@ Your task is to fix the underlying code to make the failing tests in the app pas
 
 ## Instructions
 
-<img width="248" alt="image" src="https://github.com/ProlificLabs/shakesearch/assets/98766735/061a0129-bd33-49a4-b6a6-009513fe8661">
+<img width="404" alt="image" src="https://github.com/ProlificLabs/shakesearch/assets/98766735/9a5b96b5-0e44-42e1-8d6e-b7a9e08df9a1">
 
 *** 
 
