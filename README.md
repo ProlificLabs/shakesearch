@@ -14,6 +14,8 @@ Your task is to fix the underlying code to make the failing tests in the app pas
 
 <img width="248" alt="image" src="https://github.com/ProlificLabs/shakesearch/assets/98766735/061a0129-bd33-49a4-b6a6-009513fe8661">
 
+*** 
+
 1. Create a repository from this one using the "Use this template" button.
 2. Turn on Github Actions (click Actions tab in Github and press "I understand my workflows, go ahead and enable them", free for public repos)
 3. Fix the underlying code to make the tests pass
